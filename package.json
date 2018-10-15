@@ -1,0 +1,17 @@
+{
+  "name": "simplebookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.18.4"
+  },
+  "author": "shubham",
+  "license": "ISC"
+}
